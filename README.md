@@ -1,2 +1,2 @@
 
-<h1>Sentiment/Polarity Analysis of Financial Data For Stock Forecasting</h1>
+<h1>Sentiment/Polarity Analysis of Financial News Data For Stock Forecasting</h1>
