@@ -1,0 +1,33 @@
+h1{
+    font-size:3rem;
+
+}
+.rc-slider-rail {
+     height: 2px;
+}
+.rc-slider-dot-active{
+    border-color: #383b3e7a;
+    height: 3px;
+    width: 3px;
+}
+.rc-slider-handle{
+    border: solid 1px #383b3e7a;
+    background-color: #383b3e7a;
+    height: 15px;
+    width: 3px;
+}
+
+.rc-slider-handle:hover{
+    border: 2px solid #383b3e7a;
+}
+.rc-slider-track{
+    background-color: #383b3e7a;
+    height: 2px;
+}
+.rc-slider-step {
+     height: 2px;
+}
+.rc-slider-dot{
+    height: 3px;
+    width: 3px;
+}
